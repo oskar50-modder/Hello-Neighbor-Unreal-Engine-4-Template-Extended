@@ -1,3 +1,3 @@
-# HNUE4TemplateV2
+Hello Neighbor UE4 Template Extended
 
-Developed with Unreal Engine 4
+HNUE4 TEMPLATE EXTENDED Provides More Blueprints Than The OG Versions
